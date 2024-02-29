@@ -15,7 +15,7 @@ rem Entrer dans le dossier créé
 cd "%nom_dossier%"
 
 rem Exécution des commandes suivantes dans le dossier Build
-cmake ../App
+cmake ../Project
 cmake --build .
 
 rem Message facultatif (vous pouvez le supprimer si vous ne souhaitez pas afficher de message)
