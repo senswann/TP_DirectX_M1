@@ -1,0 +1,6 @@
+// the configured options and settings for TP_Project
+#define VERSION_MAJOR @TP_Project_VERSION_MAJOR@
+#define VERSION_MINOR @TP_Project_VERSION_MINOR@
+
+// Path of the Cmake Project source
+#define CMAKE_PATH @CMAKE_CURRENT_SOURCE_DIR@
